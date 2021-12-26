@@ -2,7 +2,7 @@
 
 ## Team: Tego C., Tigran H., Dauren B.
 
-![flowchart](https://github.com/Tego-Chang/Toxic-Comment-Classification-Using-Naive-Bayes-LDA-and-Neutral-Networks/blob/main/Images/project%20flow%20chart-2-2.png)
+![flowchart](https://github.com/Tego-Chang/Toxic-Comment-Classification-Using-Naive-Bayes-LDA-and-Neural-Networks/blob/main/Images/project%20flow%20chart.png)
 
 
 In the first (left in the above flowchart) part of the project, we constructed a Multinomial Navie Bayes Classifier to investigate the document (comment) classification problem. On the other hand, we built 5 fully connected neural networks with different vectorization techniques to fit the same real world dataset. Lastly, both approaches have been assessed through common metric, including accuract, precision, recall, and losses. 
